@@ -1,0 +1,34 @@
+zomato-analytics-platform/
+├── configs/
+│   ├── dev.json
+│   ├── prod.json
+│   └── test.json
+├── docs/
+│   └── architecture.md
+├── scripts/
+│   ├── deployment/
+│   └── monitoring/
+├── src/
+│   ├── api_integration/
+│   ├── aws_integration/
+│   ├── azure_integration/
+│   ├── batch_processing/
+│   ├── ci_cd/
+│   ├── database_connectors/
+│   ├── data_quality/
+│   ├── data_warehouse/
+│   ├── geospatial/
+│   ├── kafka/
+│   ├── ml_pipeline/
+│   ├── monitoring/
+│   ├── notifications/
+│   ├── security/
+│   ├── streaming/
+│   └── main.py
+├── tests/
+│   ├── unit/
+│   ├── integration/
+│   └── e2e/
+├── requirements.txt
+├── pyproject.toml
+└── README.md
